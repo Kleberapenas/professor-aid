@@ -1,4 +1,5 @@
 # Welcome to your Lovable project
+# Projeto obrigatorio do curso SENAI Desenvolvimento de sistemas
 
 ## Project info
 
